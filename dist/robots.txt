@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-calvin-power-washing.dream-surge.com/sitemap-index.xml

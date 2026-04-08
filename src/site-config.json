@@ -1,0 +1,612 @@
+{
+  "business": {
+    "name": "Calvin Power Washing",
+    "phone": "+15037930621",
+    "category": "pressure washing",
+    "city": "Portland",
+    "state": "OR"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Portland's Power Washing Pros",
+      "heroSubline": "Restore your home's curb appeal with our expert pressure washing services. Serving Portland, Beaverton, and beyond.",
+      "aboutTitle": "About Calvin Power Washing",
+      "aboutText": [
+        "Calvin Power Washing started with a simple goal: to provide Portland homeowners with reliable and effective exterior cleaning solutions. We're not just another pressure washing company; we're your neighbors, committed to preserving the beauty and integrity of our community's homes.",
+        "We approach every project with meticulous attention to detail and a commitment to using environmentally responsible cleaning methods. Our team is fully trained and equipped to handle any surface, from delicate wood siding to tough concrete driveways, ensuring a thorough clean without causing damage.",
+        "We're proud to be part of the Portland community and actively support local initiatives. We believe in giving back and ensuring that our business contributes positively to the environment and the lives of our fellow residents."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has years of experience tackling the toughest cleaning challenges Portland's climate throws our way."
+        },
+        {
+          "title": "Eco-Friendly Solutions",
+          "description": "We use biodegradable detergents and responsible water management practices to protect our environment."
+        },
+        {
+          "title": "Comprehensive Cleaning",
+          "description": "From roofs to sidewalks, we clean every exterior surface with precision and care."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We're not happy until you're completely satisfied with the results. If you're not, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Get a Free Quote Today!",
+      "ctaSubline": "Transform your home with our expert pressure washing services. Contact us now for a free estimate."
+    },
+    "services": [
+      {
+        "slug": "house-washing",
+        "name": "House Washing",
+        "shortDescription": "Protect and beautify your home with our thorough house washing service.",
+        "description": "Portland's damp climate breeds moss, mildew, and algae, which can damage your siding and diminish your home's curb appeal. Our house washing service removes these unsightly growths, preventing long-term damage and restoring your home's original luster. We use a soft washing technique that combines low-pressure water with specialized detergents to gently yet effectively clean all types of siding, including wood, vinyl, stucco, and brick. Our process eliminates harmful organisms at the source, providing a longer-lasting clean than traditional pressure washing methods. We pay close attention to detail, ensuring that every nook and cranny is thoroughly cleaned, from the eaves to the foundation. Our house washing service not only enhances your home's appearance but also protects your investment by preventing costly repairs down the road.",
+        "process": [
+          "Inspection: We assess your home's exterior to identify areas of concern and determine the best cleaning approach.",
+          "Preparation: We protect your landscaping and cover any sensitive areas to prevent damage.",
+          "Application: We apply our specialized cleaning solution using a soft washing technique.",
+          "Rinsing: We carefully rinse away the solution, leaving your home clean and refreshed."
+        ],
+        "benefits": [
+          "Removes moss, mildew, and algae",
+          "Prevents siding damage",
+          "Enhances curb appeal",
+          "Extends the life of your siding"
+        ],
+        "faq": [
+          {
+            "question": "What is soft washing?",
+            "answer": "Soft washing uses low pressure and specialized detergents to gently clean surfaces without causing damage. It's ideal for delicate siding materials like wood and stucco."
+          },
+          {
+            "question": "How often should I have my house washed?",
+            "answer": "We recommend having your house washed every 1-2 years to prevent the buildup of harmful growths and maintain its appearance."
+          },
+          {
+            "question": "Is your cleaning solution safe for plants and pets?",
+            "answer": "Yes, we use environmentally responsible cleaning solutions that are safe for plants, pets, and your family."
+          }
+        ]
+      },
+      {
+        "slug": "roof-cleaning",
+        "name": "Roof Cleaning",
+        "shortDescription": "Extend the life of your roof with our professional roof cleaning service.",
+        "description": "A dirty roof not only detracts from your home's appearance but can also cause significant damage over time. Moss, algae, and lichen trap moisture, leading to wood rot and premature shingle deterioration. Our roof cleaning service removes these harmful growths, protecting your roof and extending its lifespan. We use a gentle, non-abrasive cleaning method that won't damage your shingles or tiles. Our team is experienced in cleaning all types of roofs, including asphalt shingles, cedar shakes, and tile roofs. We take extra precautions to protect your landscaping and ensure that all debris is properly disposed of. Investing in regular roof cleaning is a smart way to protect your investment and avoid costly repairs down the road. We understand the unique challenges posed by Portland's climate and are equipped to handle even the toughest roof cleaning jobs.",
+        "process": [
+          "Inspection: We assess your roof's condition and identify areas of concern.",
+          "Treatment: We apply a specialized cleaning solution to kill moss, algae, and lichen.",
+          "Removal: We gently remove dead debris without causing damage to your roof.",
+          "Prevention: We offer preventative treatments to inhibit future growth."
+        ],
+        "benefits": [
+          "Removes moss, algae, and lichen",
+          "Extends roof lifespan",
+          "Prevents wood rot",
+          "Enhances curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "Will roof cleaning damage my shingles?",
+            "answer": "No, we use a gentle, non-abrasive cleaning method that won't damage your shingles or tiles."
+          },
+          {
+            "question": "How often should I have my roof cleaned?",
+            "answer": "We recommend having your roof cleaned every 2-3 years, depending on the level of moss and algae growth."
+          },
+          {
+            "question": "Is your roof cleaning solution safe for my landscaping?",
+            "answer": "Yes, we take precautions to protect your landscaping and use environmentally responsible cleaning solutions."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-and-sidewalk-cleaning",
+        "name": "Driveway & Sidewalk Cleaning",
+        "shortDescription": "Restore your concrete surfaces with our powerful driveway and sidewalk cleaning.",
+        "description": "Driveways and sidewalks are often the first thing people notice about your home. Over time, they can become stained with oil, dirt, and grime, detracting from your home's overall appearance. Our driveway and sidewalk cleaning service removes these unsightly stains, restoring your concrete surfaces to their original beauty. We use high-pressure water and specialized cleaning solutions to effectively remove even the toughest stains. We also offer sealing services to protect your concrete surfaces from future damage. Our team is experienced in cleaning all types of concrete surfaces, including driveways, sidewalks, patios, and pool decks. We take pride in our work and are committed to providing our customers with exceptional results. A clean driveway and sidewalk not only enhance your home's curb appeal but also improve safety by removing slippery algae and moss.",
+        "process": [
+          "Pre-Treatment: We apply a degreaser or stain remover to heavily soiled areas.",
+          "Pressure Washing: We use high-pressure water to blast away dirt, grime, and stains.",
+          "Post-Treatment: We apply a sealant to protect your concrete surfaces (optional).",
+          "Inspection: We ensure no spots were missed."
+        ],
+        "benefits": [
+          "Removes oil, dirt, and grime",
+          "Restores concrete surfaces",
+          "Enhances curb appeal",
+          "Improves safety"
+        ],
+        "faq": [
+          {
+            "question": "Will pressure washing damage my concrete?",
+            "answer": "No, we use the appropriate pressure settings and techniques to clean your concrete surfaces without causing damage."
+          },
+          {
+            "question": "How often should I have my driveway and sidewalk cleaned?",
+            "answer": "We recommend having your driveway and sidewalk cleaned every 1-2 years, depending on the level of staining and dirt buildup."
+          },
+          {
+            "question": "Do you offer sealing services?",
+            "answer": "Yes, we offer sealing services to protect your concrete surfaces from future damage and staining."
+          }
+        ]
+      },
+      {
+        "slug": "deck-and-fence-cleaning",
+        "name": "Deck & Fence Cleaning",
+        "shortDescription": "Revitalize your outdoor living spaces with our deck and fence cleaning service.",
+        "description": "Decks and fences are exposed to the elements year-round, making them susceptible to dirt, grime, and mildew. Our deck and fence cleaning service removes these unsightly growths, restoring your outdoor living spaces to their original beauty. We use a gentle cleaning method that won't damage your wood or composite materials. We also offer staining and sealing services to protect your deck and fence from future damage. Our team is experienced in cleaning all types of decks and fences, including wood, composite, and vinyl. We take pride in our work and are committed to providing our customers with exceptional results. A clean deck and fence not only enhance your home's curb appeal but also create a more inviting and enjoyable outdoor living space. We cater to the specific needs of Portland homes, understanding the challenges of damp weather and the importance of proper maintenance.",
+        "process": [
+          "Inspection: We assess your deck and fence to determine the best cleaning approach.",
+          "Preparation: We protect your landscaping and cover any sensitive areas.",
+          "Cleaning: We apply a specialized cleaning solution using a low-pressure washing technique.",
+          "Rinsing: We carefully rinse away the solution, leaving your deck and fence clean and refreshed."
+        ],
+        "benefits": [
+          "Removes dirt, grime, and mildew",
+          "Restores outdoor living spaces",
+          "Enhances curb appeal",
+          "Extends the life of your deck and fence"
+        ],
+        "faq": [
+          {
+            "question": "Will cleaning damage my wood deck?",
+            "answer": "No, we use a gentle cleaning method that won't damage your wood or composite materials."
+          },
+          {
+            "question": "Do you offer staining and sealing services?",
+            "answer": "Yes, we offer staining and sealing services to protect your deck and fence from future damage."
+          },
+          {
+            "question": "How often should I have my deck and fence cleaned?",
+            "answer": "We recommend having your deck and fence cleaned every 1-2 years, depending on the level of dirt and mildew buildup."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Protect your home from water damage with our professional gutter cleaning service.",
+        "description": "Clogged gutters can lead to serious water damage, including roof leaks, foundation problems, and damaged siding. Our gutter cleaning service removes leaves, debris, and other obstructions, ensuring that your gutters are functioning properly. We also inspect your gutters for damage and make recommendations for repairs. Our team is experienced in cleaning all types of gutters, including aluminum, vinyl, and copper. We take extra precautions to protect your landscaping and ensure that all debris is properly disposed of. Investing in regular gutter cleaning is a smart way to protect your home from costly water damage. We understand the importance of properly functioning gutters in Portland's rainy climate and are committed to providing our customers with reliable and effective gutter cleaning services.",
+        "process": [
+          "Removal: We remove all leaves, debris, and other obstructions from your gutters.",
+          "Flushing: We flush your gutters with water to ensure they are flowing freely.",
+          "Inspection: We inspect your gutters for damage and make recommendations for repairs.",
+          "Cleanup: We clean up any debris that falls to the ground."
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Protects your foundation",
+          "Prevents roof leaks",
+          "Extends the life of your gutters"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gutters cleaned?",
+            "answer": "We recommend having your gutters cleaned at least twice a year, especially in the spring and fall."
+          },
+          {
+            "question": "Do you offer gutter repair services?",
+            "answer": "Yes, we can inspect your gutters for damage and make recommendations for repairs."
+          },
+          {
+            "question": "Can clogged gutters cause foundation problems?",
+            "answer": "Yes, clogged gutters can cause water to overflow and pool around your foundation, leading to serious damage."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-pressure-washing",
+        "name": "Commercial Pressure Washing",
+        "shortDescription": "Maintain a clean and professional image with our commercial pressure washing services.",
+        "description": "First impressions matter. A clean and well-maintained commercial property projects professionalism and attracts customers. We offer comprehensive commercial pressure washing services for businesses of all sizes in the Portland metro area. From storefronts and sidewalks to parking lots and building exteriors, we'll keep your property looking its best. We use powerful equipment and specialized cleaning solutions to remove dirt, grime, graffiti, and other unsightly stains. We understand the importance of minimizing disruption to your business and will work around your schedule to ensure a seamless cleaning process. Investing in regular commercial pressure washing is a smart way to protect your property and enhance your brand image. We're committed to providing our commercial clients with reliable, efficient, and cost-effective cleaning solutions.",
+        "process": [
+          "Assessment: We assess your property to determine the scope of work and identify areas of concern.",
+          "Preparation: We protect any sensitive areas and take precautions to minimize disruption to your business.",
+          "Cleaning: We use high-pressure water and specialized cleaning solutions to remove dirt, grime, and stains.",
+          "Rinsing: We carefully rinse away the solution, leaving your property clean and refreshed."
+        ],
+        "benefits": [
+          "Enhances curb appeal",
+          "Projects professionalism",
+          "Attracts customers",
+          "Protects your property"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer after-hours cleaning services?",
+            "answer": "Yes, we can schedule cleaning services to minimize disruption to your business operations."
+          },
+          {
+            "question": "What types of commercial properties do you clean?",
+            "answer": "We clean a wide range of commercial properties, including storefronts, office buildings, restaurants, and warehouses."
+          },
+          {
+            "question": "Are your cleaning solutions safe for the environment?",
+            "answer": "Yes, we use environmentally responsible cleaning solutions whenever possible."
+          }
+        ]
+      },
+      {
+        "slug": "graffiti-removal",
+        "name": "Graffiti Removal",
+        "shortDescription": "Quickly and effectively remove graffiti from your property.",
+        "description": "Graffiti can be a major eyesore and can negatively impact your property's value. Our graffiti removal service utilizes specialized equipment and cleaning solutions to quickly and effectively remove graffiti from a variety of surfaces, including brick, concrete, metal, and wood. We understand the urgency of graffiti removal and offer prompt service to minimize the impact on your property. Our team is experienced in handling all types of graffiti, from spray paint to markers. We take pride in restoring your property to its original condition. Don't let graffiti detract from your property's appearance – contact us today for fast and reliable graffiti removal services. We service all of Portland and surrounding areas, ensuring a quick response to any graffiti situation.",
+        "process": [
+          "Assessment: We assess the type of graffiti and the surface it's on to determine the best removal method.",
+          "Application: We apply a specialized graffiti remover to the affected area.",
+          "Removal: We use pressure washing or manual scrubbing to remove the graffiti.",
+          "Cleanup: We clean up any residue and ensure the area is restored to its original condition."
+        ],
+        "benefits": [
+          "Restores your property's appearance",
+          "Removes graffiti quickly and effectively",
+          "Protects property value",
+          "Prevents further vandalism"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you remove graffiti?",
+            "answer": "We offer prompt service and can often remove graffiti within 24-48 hours."
+          },
+          {
+            "question": "Can you remove graffiti from any surface?",
+            "answer": "We can remove graffiti from a variety of surfaces, including brick, concrete, metal, and wood."
+          },
+          {
+            "question": "Is your graffiti removal service safe for the environment?",
+            "answer": "We use environmentally responsible cleaning solutions whenever possible."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Beaverton",
+        "slug": "beaverton-or",
+        "state": "OR",
+        "content": "Calvin Power Washing is proud to serve the residents and businesses of Beaverton, Oregon! With a population of approximately 100,000, Beaverton is known for its established neighborhoods featuring many 1970s and 80s suburban ranch-style homes. These homes, while charming, can accumulate moss, algae, and dirt over time due to the Pacific Northwest's mild, wet winters. Regular pressure washing helps maintain their curb appeal and prevent damage from the elements.\n\nWe understand the specific needs of Beaverton homeowners. Our team is experienced in safely and effectively cleaning various surfaces, including siding, roofs, driveways, and decks. We use eco-friendly cleaning solutions to protect your property and the environment. We're committed to providing top-notch service and ensuring your satisfaction.",
+        "localContext": "Beaverton's mature neighborhoods with their classic ranch homes are particularly susceptible to moss and algae growth due to the region's climate.",
+        "nearbyAreas": [
+          "Portland",
+          "Hillsboro",
+          "Tigard"
+        ]
+      },
+      {
+        "city": "Hillsboro",
+        "slug": "hillsboro-or",
+        "state": "OR",
+        "content": "Calvin Power Washing is dedicated to providing exceptional pressure washing services in Hillsboro, Oregon. As a hub of the Silicon Forest, Hillsboro boasts a growing population of around 110,000 and features newer housing developments alongside established neighborhoods. The area's climate, characterized by mild, wet winters, can lead to the build-up of grime and organic growth on exterior surfaces.\n\nWhether you own a modern home in a new development or a classic residence, Calvin Power Washing has the expertise and equipment to tackle your cleaning needs. We offer a range of services, including house washing, roof cleaning, driveway cleaning, and deck restoration. Our team is committed to delivering outstanding results and exceeding your expectations.",
+        "localContext": "Hillsboro's blend of newer and older homes, combined with the area's wet climate, creates diverse pressure washing needs.",
+        "nearbyAreas": [
+          "Beaverton",
+          "Cornelius",
+          "Forest Grove"
+        ]
+      },
+      {
+        "city": "Lake Oswego",
+        "slug": "lake-oswego-or",
+        "state": "OR",
+        "content": "Calvin Power Washing is pleased to offer our professional pressure washing services to the residents of Lake Oswego, Oregon. Known for its beautiful lakefront properties and upscale homes, Lake Oswego demands a high standard of cleanliness and maintenance. The area's climate, with its mild, wet winters, can contribute to the accumulation of dirt, algae, and moss on exterior surfaces.\n\nWe understand the importance of maintaining the pristine appearance of your Lake Oswego property. Our team is skilled in safely and effectively cleaning a variety of surfaces, including delicate siding, roofs, and decks. We use environmentally friendly cleaning solutions to protect your property and the surrounding environment. Our goal is to provide exceptional service and enhance the beauty of your home.",
+        "localContext": "Lake Oswego's upscale lakefront homes require meticulous care to combat the effects of the wet climate and maintain their value.",
+        "nearbyAreas": [
+          "West Linn",
+          "Tualatin",
+          "Tigard"
+        ]
+      },
+      {
+        "city": "Tigard",
+        "slug": "tigard-or",
+        "state": "OR",
+        "content": "Calvin Power Washing is proud to serve the community of Tigard, Oregon. With a population of approximately 55,000, Tigard features many established neighborhoods with homes built in the 1970s and 80s. These homes can be susceptible to the effects of the Pacific Northwest's climate, including the growth of moss, algae, and mildew.\n\nWe provide comprehensive pressure washing services to Tigard homeowners and businesses. From house washing to roof cleaning and driveway cleaning, we have the expertise and equipment to get the job done right. We are committed to providing reliable, affordable, and high-quality services that exceed your expectations.",
+        "localContext": "Tigard's established neighborhoods often require pressure washing services to remove years of accumulated dirt and organic growth.",
+        "nearbyAreas": [
+          "Tualatin",
+          "Beaverton",
+          "Lake Oswego"
+        ]
+      },
+      {
+        "city": "Tualatin",
+        "slug": "tualatin-or",
+        "state": "OR",
+        "content": "Calvin Power Washing extends its professional pressure washing services to the city of Tualatin, Oregon. Tualatin offers a mix of residential and commercial properties, all of which benefit from regular exterior cleaning. Our services are designed to combat the effects of the Pacific Northwest weather, removing dirt, grime, and organic growth from various surfaces.\n\nWe are equipped to handle any pressure washing task, from small residential projects to large commercial jobs. Our team uses eco-friendly cleaning solutions and state-of-the-art equipment to ensure a safe and effective cleaning experience. We pride ourselves on our commitment to customer satisfaction and delivering exceptional results.",
+        "localContext": "Tualatin's diverse mix of properties benefits from Calvin Power Washing's services to maintain cleanliness and prevent long-term damage.",
+        "nearbyAreas": [
+          "Wilsonville",
+          "Sherwood",
+          "Tigard"
+        ]
+      },
+      {
+        "city": "West Linn",
+        "slug": "west-linn-or",
+        "state": "OR",
+        "content": "Calvin Power Washing is pleased to offer its pressure washing services in West Linn, Oregon. Known for its beautiful scenery and well-maintained homes, West Linn requires professional cleaning services to uphold its aesthetic appeal. The climate, characterized by wet winters, can contribute to the build-up of dirt and algae on exterior surfaces.\n\nOur team is experienced in safely and effectively cleaning a variety of surfaces, ensuring your home or business looks its best. We use environmentally friendly cleaning solutions to protect your property and the surrounding environment. We're committed to providing top-notch service and ensuring your satisfaction.",
+        "localContext": "West Linn's upscale homes require regular maintenance, including professional pressure washing, to combat the effects of the climate and maintain their property value.",
+        "nearbyAreas": [
+          "Lake Oswego",
+          "Wilsonville",
+          "Oregon City"
+        ]
+      },
+      {
+        "city": "Wilsonville",
+        "slug": "wilsonville-or",
+        "state": "OR",
+        "content": "Calvin Power Washing is proud to offer professional pressure washing services to the residents and businesses of Wilsonville, Oregon. Known for its growing community and diverse properties, Wilsonville benefits from regular exterior cleaning to maintain its appeal. The Pacific Northwest climate can lead to the accumulation of dirt, algae, and moss on various surfaces.\n\nWe offer a comprehensive range of pressure washing services, including house washing, roof cleaning, driveway cleaning, and commercial building cleaning. Our team is dedicated to providing exceptional results and exceeding your expectations. We use eco-friendly cleaning solutions to protect your property and the environment.",
+        "localContext": "Wilsonville's mix of residential and commercial properties benefits from regular pressure washing to maintain cleanliness and prevent long-term damage from the climate.",
+        "nearbyAreas": [
+          "Tualatin",
+          "West Linn",
+          "Sherwood"
+        ]
+      },
+      {
+        "city": "Sherwood",
+        "slug": "sherwood-or",
+        "state": "OR",
+        "content": "Calvin Power Washing is dedicated to providing top-quality pressure washing services in Sherwood, Oregon. With its growing residential areas and community focus, Sherwood properties benefit from regular exterior cleaning to maintain their appearance. The wet climate of the Pacific Northwest can contribute to the build-up of dirt and organic growth on exterior surfaces.\n\nOur team is equipped to handle a variety of pressure washing needs, from small residential projects to larger commercial jobs. We use environmentally friendly cleaning solutions and state-of-the-art equipment to ensure a safe and effective cleaning experience. We pride ourselves on our commitment to customer satisfaction and delivering exceptional results.",
+        "localContext": "Sherwood's residential neighborhoods benefit from regular pressure washing to remove dirt and algae, maintaining the beauty and value of homes.",
+        "nearbyAreas": [
+          "Tualatin",
+          "Wilsonville",
+          "Newberg"
+        ]
+      },
+      {
+        "city": "Oregon City",
+        "slug": "oregon-city-or",
+        "state": "OR",
+        "content": "Calvin Power Washing is pleased to extend its pressure washing services to Oregon City, Oregon. As a historic city with a mix of older and newer homes, Oregon City benefits from professional cleaning to preserve its charm and prevent damage from the elements. The Pacific Northwest climate can lead to the build-up of dirt, moss, and algae on various surfaces.\n\nOur team is experienced in safely and effectively cleaning a variety of surfaces, ensuring your home or business looks its best. We offer a range of services to meet your specific needs, using environmentally friendly cleaning solutions to protect your property and the surrounding environment. We're committed to providing top-notch service and ensuring your satisfaction.",
+        "localContext": "Oregon City's historic homes and mix of newer constructions require specialized cleaning to preserve their character and value.",
+        "nearbyAreas": [
+          "West Linn",
+          "Gladstone",
+          "Milwaukie"
+        ]
+      },
+      {
+        "city": "Milwaukie",
+        "slug": "milwaukie-or",
+        "state": "OR",
+        "content": "Calvin Power Washing is proud to offer its pressure washing services to the residents and businesses of Milwaukie, Oregon. As a vibrant community with a mix of residential and commercial properties, Milwaukie benefits from regular exterior cleaning to maintain its appeal. The Pacific Northwest climate can lead to the accumulation of dirt, algae, and moss on various surfaces.\n\nWe offer a comprehensive range of pressure washing services, including house washing, roof cleaning, driveway cleaning, and commercial building cleaning. Our team is dedicated to providing exceptional results and exceeding your expectations. We use eco-friendly cleaning solutions to protect your property and the environment.",
+        "localContext": "Milwaukie's diverse community benefits from regular pressure washing to maintain cleanliness and prevent long-term damage from the climate.",
+        "nearbyAreas": [
+          "Portland",
+          "Gladstone",
+          "Oregon City"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "House Washing",
+        "text": "Calvin Power Washing did an amazing job on our house! Our siding was covered in moss and algae, and now it looks brand new. The team was professional, efficient, and very careful with our landscaping. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Driveway Cleaning",
+        "text": "Our driveway was a mess with oil stains and dirt. Calvin Power Washing came out and completely transformed it. It looks so much better now! I only gave 4 stars because there was a slight delay in scheduling, but the work itself was excellent.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Emily L.",
+        "rating": 5,
+        "service": "Roof Cleaning",
+        "text": "We had a lot of moss growing on our roof, and we were worried about damage. Calvin Power Washing cleaned it all off without any issues. They were very professional and explained the whole process to us. Great service!",
+        "date": "2025-04-10"
+      },
+      {
+        "name": "Thomas B.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "Our gutters were completely clogged with leaves and debris. Calvin Power Washing cleaned them out quickly and efficiently. They also inspected them for damage and gave us some helpful tips for maintenance. Will definitely use them again!",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 5,
+        "service": "Deck Cleaning",
+        "text": "Our deck was covered in mildew and grime. Calvin Power Washing came out and made it look brand new. They were very careful with our plants and furniture. We're so happy with the results!",
+        "date": "2025-05-05"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 4,
+        "service": "Commercial Pressure Washing",
+        "text": "We hired Calvin Power Washing to clean the exterior of our storefront. They did a great job removing graffiti and grime. Our building looks much more inviting now. We'll be using them for regular maintenance.",
+        "date": "2025-05-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Calvin Power Washing | Portland OR",
+        "description": "Portland's top-rated pressure washing. House washing, roof cleaning, concrete cleaning & more. Free quotes!"
+      },
+      "about": {
+        "title": "About Calvin Power Washing",
+        "description": "Learn more about Calvin Power Washing, serving Portland OR. Experienced, reliable, and committed to quality."
+      },
+      "services": {
+        "title": "Pressure Washing Services | Portland",
+        "description": "Our pressure washing services include house washing, roof cleaning, driveway cleaning, and more. Free quotes!"
+      },
+      "contact": {
+        "title": "Contact Calvin Power Washing",
+        "description": "Contact Calvin Power Washing for a free quote. Serving Portland, Beaverton, Hillsboro, Lake Oswego, and Tigard."
+      },
+      "reviews": {
+        "title": "Calvin Power Washing Reviews",
+        "description": "Read reviews from satisfied customers of Calvin Power Washing in Portland OR. Quality service guaranteed."
+      },
+      "service-areas": {
+        "title": "Service Areas | Calvin Power Washing",
+        "description": "Calvin Power Washing provides pressure washing services in Portland, Beaverton, Hillsboro, Lake Oswego, and Tigard."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "house-washing": "/images/service-house-washing.webp",
+      "roof-cleaning": "/images/service-roof-cleaning.webp",
+      "driveway-and-sidewalk-cleaning": "/images/service-driveway-and-sidewalk-cleaning.webp",
+      "deck-and-fence-cleaning": "/images/service-deck-and-fence-cleaning.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "commercial-pressure-washing": "/images/service-commercial-pressure-washing.webp",
+      "graffiti-removal": "/images/service-graffiti-removal.webp"
+    },
+    "servicesResponsive": {
+      "house-washing": {
+        "src": "/images/service-house-washing.webp",
+        "srcset": "/images/service-house-washing-400w.webp 400w, /images/service-house-washing-800w.webp 800w, /images/service-house-washing-1200w.webp 1200w, /images/service-house-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-cleaning": {
+        "src": "/images/service-roof-cleaning.webp",
+        "srcset": "/images/service-roof-cleaning-400w.webp 400w, /images/service-roof-cleaning-800w.webp 800w, /images/service-roof-cleaning-1200w.webp 1200w, /images/service-roof-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-and-sidewalk-cleaning": {
+        "src": "/images/service-driveway-and-sidewalk-cleaning.webp",
+        "srcset": "/images/service-driveway-and-sidewalk-cleaning-400w.webp 400w, /images/service-driveway-and-sidewalk-cleaning-800w.webp 800w, /images/service-driveway-and-sidewalk-cleaning-1200w.webp 1200w, /images/service-driveway-and-sidewalk-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-and-fence-cleaning": {
+        "src": "/images/service-deck-and-fence-cleaning.webp",
+        "srcset": "/images/service-deck-and-fence-cleaning-400w.webp 400w, /images/service-deck-and-fence-cleaning-800w.webp 800w, /images/service-deck-and-fence-cleaning-1200w.webp 1200w, /images/service-deck-and-fence-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-pressure-washing": {
+        "src": "/images/service-commercial-pressure-washing.webp",
+        "srcset": "/images/service-commercial-pressure-washing-400w.webp 400w, /images/service-commercial-pressure-washing-800w.webp 800w, /images/service-commercial-pressure-washing-1200w.webp 1200w, /images/service-commercial-pressure-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "graffiti-removal": {
+        "src": "/images/service-graffiti-removal.webp",
+        "srcset": "/images/service-graffiti-removal-400w.webp 400w, /images/service-graffiti-removal-800w.webp 800w, /images/service-graffiti-removal-1200w.webp 1200w, /images/service-graffiti-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
